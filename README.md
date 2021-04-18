@@ -36,7 +36,7 @@
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-256.png" alt="stackoverflow" width="25" height="25" />
 <img src="https://cdn0.iconfinder.com/data/icons/line-design-word-processing-set-3-1/21/macros-512.png" alt="vba" width="25" height="25" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ernestobarrera" alt="Ernesto Barrera" /> </p>
+
 
 <!--
 **ernestobarrera/ernestobarrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
