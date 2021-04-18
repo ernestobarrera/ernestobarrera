@@ -35,7 +35,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/286_Rss_logo-256.png" alt="RSS" width="25" height="25" />
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-256.png" alt="stackoverflow" width="25" height="25" />
 <img src="https://cdn0.iconfinder.com/data/icons/line-design-word-processing-set-3-1/21/macros-512.png" alt="vba" width="25" height="25" />
-![Profile views](https://gpvc.arturio.dev/[ernestobarrera])
+
 <!--
 **ernestobarrera/ernestobarrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
