@@ -4,7 +4,7 @@
 -  ⚡ Soy médico, donde más puedo ayudar es en la utilización de recursos para buscar y recibir información en ciencias de la salud
 - 👯 Colaboro en proyectos docentes dirigidos a la formación en competencias informáticas, mediáticas e informacionales.
 - 🤔 Estoy buscando ayuda con programación en JavaScript (para Bookmarklets)
-  <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9576-6361" href="https://orcid.org/0000-0002-9576-6361" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:1em;" alt="ORCID iD icon">https://orcid.org/0000-0002-9576-6361</a></div>
+  <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9576-6361" href="https://orcid.org/0000-0002-9576-6361" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:0.5em;" alt="ORCID iD icon"> https://orcid.org/0000-0002-9576-6361</a></div>
 
 [![Estadísticas de ErnestoBarrera en GitHub](https://github-readme-stats.vercel.app/api?username=ernestobarrera&show_icons=true)](https://github.com/ernestobarrera/github-readme-stats)
 
