@@ -1,5 +1,5 @@
 ### ¡Hola! 👋
-- 🔭 Actualmente estoy trabajando solo en repositorios propios.
+- 🔭 Actualmente estoy desarrollando varios repositorios propios.
 - 🌱 En este momento estoy utilizando GitHub con recursos de búsqueda y gestión de información en ciencias de la salud.
 - 👯 Colaboro en proyectos docentes dirigidos a la formación en competencias informáticas, mediáticas e informacionales.
 - 🤔 Estoy buscando ayuda con programación en JavaScript (para Bookmarklets)
