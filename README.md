@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 - 🔭 Actualmente estoy desarrollando varios repositorios propios.
-- 🌱 En este momento estoy utilizando GitHub con recursos de búsqueda y gestión de información en ciencias de la salud.
+- 🌱 En este momento uso GitHub para desarrollar y compartir recursos de búsqueda y gestión de información en ciencias de la salud.
 -  ⚡ Soy médico, conozco varios lenguajes, entornos de programación y aplicaciones digitales relacionadas con la gestión de la información. Donde más suelo colaborar es en la revisión del entorno personal de aprendizaje y utilización de recursos para buscar y recibir información en ciencias de la salud
 - 👯 Participo en proyectos docentes dirigidos a la formación en competencias informáticas, mediáticas e informacionales.
 - 🤔 Estoy buscando ayuda con programación en JavaScript (para Bookmarklets)
