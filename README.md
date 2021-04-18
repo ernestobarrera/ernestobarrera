@@ -6,7 +6,7 @@
 - 🤔 Estoy buscando ayuda con programación en JavaScript (para Bookmarklets)
   <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9576-6361" href="https://orcid.org/0000-0002-9576-6361" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://s2.googleusercontent.com/s2/favicons?domain=orcid.org" style="width:1em;margin-right:0.5em;" alt="ORCID iD icon">  https://orcid.org/0000-0002-9576-6361</a></div>
 
- [![Estadísticas de ErnestoBarrera en GitHub](https://github-readme-stats.vercel.app/api?username=ernestobarrera&show_icons=true&theme=radical&custom_title=Estadisticas de Ernesto Barrera en GitHub)]( https://github.com/ernestobarrera/github-readme-stats)
+ [![Estadísticas de ErnestoBarrera en GitHub](https://github-readme-stats.vercel.app/api?username=ernestobarrera&show_icons=true&theme=radical&custom_title=Estadisticas de Ernesto Barrera en GitHub)](https://github-readme-stats.vercel.app/api?username=ernestobarrera&show_icons=true&theme=radical&custom_title=Estadisticas de Ernesto Barrera en GitHub)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestobarrera&layout=compact)](https://github.com/ernestobarrera/github-readme-stats)
 
 
