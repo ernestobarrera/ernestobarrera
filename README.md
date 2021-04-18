@@ -13,7 +13,7 @@
 
 <h2>🚀 Algunas herramientas que utilizo</h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="25" height="25" />
+<a href="https://gimp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="25" height="25" /></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="25" height="25" />
 <img src="https://s2.googleusercontent.com/s2/favicons?domain=code.visualstudio.com" alt="Visual Studio Code" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Google Drive" width="25" height="25" />
