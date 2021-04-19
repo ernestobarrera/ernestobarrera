@@ -1,5 +1,7 @@
-<h2> ¡Hola! 👋</h2>
-- 🔭 Actualmente estoy desarrollando varios repositorios propios.
+
+## ¡Hola! 👋
+
+- 🔭 Actualmente estoy desarrollando varios repositorios propios
 - 🌱 Uso GitHub para desarrollar recursos de búsqueda y gestión de información para profesionales sanitarios.
 - ⚡ Uso varios lenguajes, entornos de programación y aplicaciones digitales para gestionar información sanitaria. 
 - 👯 Colaboro en proyectos docentes dirigidos a la formación en competencias informáticas, mediáticas e informacionales.
@@ -13,7 +15,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestobarrera&layout=compact&langs_count=8)](https://github.com/ernestobarrera/github-readme-stats)
  
 <br></br>
-<h2>🚀 Algunas herramientas que utilizo</h2>
+## 🚀 Algunas herramientas que utilizo
 <p align="left">
 <a href="https://gimp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="25" height="25" /></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="25" height="25" />
