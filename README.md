@@ -4,15 +4,15 @@
 - 🌱 Uso GitHub para desarrollar recursos de búsqueda y gestión de información para profesionales sanitarios.
 - ⚡ Uso varios lenguajes, entornos de programación y aplicaciones digitales para gestionar información sanitaria.
 - 👯 Colaboro en proyectos docentes dirigidos a la formación en competencias informáticas, mediáticas e informacionales.
-- 🤔 Me puedes ayudar con programación en JavaScript para Bookmarklets.
+- 🤔 Me puedes ayudar con programación en JavaScript para mejorar Bookmarklets.
 
-### Mi perfil en Orcid
+### 👨🏻‍⚕️ Mi perfil en Orcid
 ---
 
   <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9576-6361" href="https://orcid.org/0000-0002-9576-6361" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://s2.googleusercontent.com/s2/favicons?domain=orcid.org" style="width:1em;margin-right:0.5em;" alt="ORCID iD icon">  https://orcid.org/0000-0002-9576-6361</a></div>
 <br></br>
 
-### Mis actividad en GitHub
+### 👨🏻‍💻 Mi actividad en GitHub
 ---
 
 [![Estadísticas%20de%20Ernesto%20Barrera%20en%20GitHub](https://github-readme-stats.vercel.app/api?username=ernestobarrera&locale=es&show_icons=true&theme=radical&include_all_commits=true&custom_title=Estadisticas%20de%20Ernesto%20Barrera%20en%20GitHub)](https://github-readme-stats.vercel.app/api?username=ernestobarrera&show_icons=true&theme=radical&include_all_commits=true&custom_title=Estadisticas%20de%20Ernesto%20Barrera%20en%20GitHub)
