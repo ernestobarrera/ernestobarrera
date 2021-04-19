@@ -1,11 +1,11 @@
-### ¡Hola! 👋
+<h2> ¡Hola! 👋</h2>
 - 🔭 Actualmente estoy desarrollando varios repositorios propios.
-- 🌱 En este momento uso GitHub para desarrollar y compartir recursos de búsqueda y gestión de información para profesionales sanitarios.
--  ⚡ Soy médico, conozco varios lenguajes, entornos de programación y aplicaciones digitales casi siempre relacionadas con la gestión de la información sanitaria. Donde más suelo colaborar es en la revisión del entorno personal de aprendizaje y utilización de recursos para buscar y recibir información en ciencias de la salud
-- 👯 Participo en proyectos docentes dirigidos a la formación en competencias informáticas, mediáticas e informacionales.
-- 🤔 Estoy buscando ayuda con programación en JavaScript (para Bookmarklets)
+- 🌱 Uso GitHub para desarrollar recursos de búsqueda y gestión de información para profesionales sanitarios.
+- ⚡ Uso varios lenguajes, entornos de programación y aplicaciones digitales para gestionar información sanitaria. 
+- 👯 Colaboro en proyectos docentes dirigidos a la formación en competencias informáticas, mediáticas e informacionales.
+- 🤔 Me puedes ayudar con programación en JavaScript para Bookmarklets.
   <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9576-6361" href="https://orcid.org/0000-0002-9576-6361" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://s2.googleusercontent.com/s2/favicons?domain=orcid.org" style="width:1em;margin-right:0.5em;" alt="ORCID iD icon">  https://orcid.org/0000-0002-9576-6361</a></div>
- [![Estadísticas de ErnestoBarrera en GitHub](https://github-readme-stats.vercel.app/api?username=ernestobarrera&locale=es&show_icons=true&theme=radical&include_all_commits=true&custom_title=Estadisticas de Ernesto Barrera en GitHub)](https://github-readme-stats.vercel.app/api?username=ernestobarrera&show_icons=true&theme=radical&include_all_commits=true&custom_title=Estadisticas de Ernesto Barrera en GitHub)
+ [![Estadísticas de ErnestoBarrera en GitHub](https://github-readme-stats.vercel.app/api?username=ernestobarrera&locale=es&show_icons=true&theme=radical&include_all_commits=true&custom_title=Estadisticas de Ernesto Barrera en GitHub)](https://github-readme-stats.vercel.app/api?username=ernestobarrera&show_icons=true&theme=radical&include_all_commits=true&custom_title=Estadisticas de Ernesto Barrera en GitHub)
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestobarrera&layout=compact&langs_count=8)](https://github.com/ernestobarrera/github-readme-stats)
@@ -35,7 +35,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/286_Rss_logo-256.png" alt="RSS" width="25" height="25" />
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-256.png" alt="stackoverflow" width="25" height="25" />
 <img src="https://cdn0.iconfinder.com/data/icons/line-design-word-processing-set-3-1/21/macros-512.png" alt="vba" width="25" height="25" />
-<img src="https://s2.googleusercontent.com/s2/favicons?domain=limesurvey.org" alt="LimeSurvey" width="25" height="25" />
+<a href="https://limesurvey.org" target="_blank"><img src="https://s2.googleusercontent.com/s2/favicons?domain=limesurvey.org" alt="LimeSurvey" width="25" height="25" /></a>
 
 
 
