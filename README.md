@@ -5,12 +5,14 @@
 - 👯 Colaboro en proyectos docentes dirigidos a la formación en competencias informáticas, mediáticas e informacionales.
 - 🤔 Me puedes ayudar con programación en JavaScript para Bookmarklets.
   <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9576-6361" href="https://orcid.org/0000-0002-9576-6361" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://s2.googleusercontent.com/s2/favicons?domain=orcid.org" style="width:1em;margin-right:0.5em;" alt="ORCID iD icon">  https://orcid.org/0000-0002-9576-6361</a></div>
- [![Estadísticas de ErnestoBarrera en GitHub](https://github-readme-stats.vercel.app/api?username=ernestobarrera&locale=es&show_icons=true&theme=radical&include_all_commits=true&custom_title=Estadisticas de Ernesto Barrera en GitHub)](https://github-readme-stats.vercel.app/api?username=ernestobarrera&show_icons=true&theme=radical&include_all_commits=true&custom_title=Estadisticas de Ernesto Barrera en GitHub)
+<br></br>
 
+[![Estadísticas%20de%20Ernesto%20Barrera%20en%20GitHub](https://github-readme-stats.vercel.app/api?username=ernestobarrera&locale=es&show_icons=true&theme=radical&include_all_commits=true&custom_title=Estadisticas%20de%20Ernesto%20Barrera%20en%20GitHub)](https://github-readme-stats.vercel.app/api?username=ernestobarrera&show_icons=true&theme=radical&include_all_commits=true&custom_title=Estadisticas%20de%20Ernesto%20Barrera%20en%20GitHub)
 
+<br></br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestobarrera&layout=compact&langs_count=8)](https://github.com/ernestobarrera/github-readme-stats)
  
-
+<br></br>
 <h2>🚀 Algunas herramientas que utilizo</h2>
 <p align="left">
 <a href="https://gimp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="25" height="25" /></a>
