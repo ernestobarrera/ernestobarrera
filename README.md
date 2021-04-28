@@ -11,8 +11,8 @@
 
 
   <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9576-6361" href="https://orcid.org/0000-0002-9576-6361" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://s2.googleusercontent.com/s2/favicons?domain=orcid.org" style="width:1em;margin-right:0.5em;" alt="ORCID iD icon">  https://orcid.org/0000-0002-9576-6361</a></div>
-
-
+ <br></br>
+ 
  [![dev.to badge](https://img.shields.io/badge/-Linkedin-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ernestobarrera/) [![dev.to badge](https://img.shields.io/badge/-StackOverflow-%230177B5?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/13559443/ebl)
 
 ### 👨🏻‍💻 Mi actividad en GitHub
