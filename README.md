@@ -42,8 +42,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="JavaScript" width="25" height="25" />
 <img src="https://s2.googleusercontent.com/s2/favicons?domain=https://www.microsoft.com/" alt="Expresiones regulares" width="25" height="25" />
 <img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/205_Markdown_logo_logos-256.png" alt="Markdown" width="25" height="25" />
-<img src="https://s2.googleusercontent.com/s2/favicons?domain=datastudio.google.com" alt="Google Data Studio" width="25" height="25" />
-<img src="https://draw.io/favicon.ico" alt="draw.io" width="25" height="25" />" alt="draw.io" width="25" height="25" />
+<img src="https://ssl.gstatic.com/datastudio/latest/static_images/pngs/favicon_data_studio.png" alt="Google Data Studio" width="25" height="25" />
+<img src="https://draw.io/favicon.ico" alt="draw.io"  alt="draw.io" width="25" height="25" />
 <img src="https://static.thenounproject.com/png/883149-200.png" alt="Web Scraping" width="25" height="25" />
 <img src="https://www.zotero.org/favicon.ico" alt="Zotero" width="25" height="25" />
 <img src="https://cdn3.iconfinder.com/data/icons/luchesa-vol-9/128/Html-256.png" alt="html" width="25" height="25" />
