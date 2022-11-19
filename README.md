@@ -4,7 +4,7 @@
 - 🌱 Uso GitHub para desarrollar recursos de búsqueda y gestión de información para profesionales sanitarios.
 - ⚡ Uso varios lenguajes, entornos de programación y aplicaciones digitales para gestionar información sanitaria.
 - 👯 Colaboro en proyectos docentes dirigidos a la formación en competencias informáticas, mediáticas e informacionales.
-- 🤔 Me puedes ayudar con Github pages si usas Jekyll y bootstrap.
+- 🤔 Me puedes ayudar con Github si detectas algún repositorio mejorable
 
 ### 👨🏻‍⚕️ Otros perfiles
 ---
