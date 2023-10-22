@@ -9,7 +9,7 @@
 ### 👨🏻‍⚕️ Otros perfiles
 ---
 
-![](https://komarev.com/ghpvc/?username=ernestobarrera)
+
   <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9576-6361" href="https://orcid.org/0000-0002-9576-6361" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://s2.googleusercontent.com/s2/favicons?domain=orcid.org" style="width:1em;margin-right:0.5em;" alt="ORCID iD icon">  https://orcid.org/0000-0002-9576-6361</a></div>
  <br></br>
  
@@ -23,7 +23,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestobarrera&layout=compact&langs_count=8)](https://github.com/ernestobarrera/github-readme-stats)
 
-
+![](https://komarev.com/ghpvc/?username=ernestobarrera)
 <br></br>
 
 ### 🚀 Algunos recursos y aplicaciones que utilizo
